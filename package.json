@@ -1,0 +1,27 @@
+{
+  "name": "testing-typescript-compiler",
+  "version": "1.0.0",
+  "description": "Testing and learning Typescript Compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGalletly/Testing-typescript-Compiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NGalletly/Testing-typescript-Compiler/issues"
+  },
+  "homepage": "https://github.com/NGalletly/Testing-typescript-Compiler#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.9",
+    "typescript": "^6.0.2"
+  }
+}
